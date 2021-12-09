@@ -35,4 +35,4 @@ Ce projet utilise comme source de données la base **sqlite3** ``pouletmayo.db``
 Pour savoir comment installer et utiliser la base **sqlite3**, veuillez suivre le tutoriel suivant :
 - [Premiers pas sur SQL - [SQL partie.1] [n00b] [#data] [ep.3]](https://www.youtube.com/watch?v=_ALsx-CMyy8)
 
-Bon installation et à bientôt sur [inpulse.tv](https://www.inpulse.tv).
+Bonne installation et à bientôt sur [inpulse.tv](https://www.inpulse.tv).
