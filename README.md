@@ -6,7 +6,7 @@ Ce dépôt contient le code source relatif à l'épisode X de notre chaîne [inp
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo.
 
 Le contenu se partage en deux projets :
-- Un dossier ``backend`` proposant une API sous Node.js monté sur le port 8000.
+- Un dossier ``backend`` proposant une API sous Node.js montée sur le port 8000.
 - Un dossier ``frontend`` contenant une application Web basée sur celle proposée depuis le site [sandwichpouletmayonnaise.com](https://sandwichpouletmayonnaise.com/)
 
 Pour comprendre le contenu de chaque projet il vous suffit de suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
