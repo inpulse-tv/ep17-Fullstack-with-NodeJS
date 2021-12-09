@@ -34,6 +34,8 @@ api.getEntreesDuJour().then((json) => {
     parentElm.appendChild(rowEl);
     sibling.after(parentElm);
   });
+  contenuVegan(false);
+  photoBackground("pas vegan");
 });
 
 /*
