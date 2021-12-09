@@ -12,7 +12,7 @@ var optionAbonnes = document.getElementById("option-abonnes");
 var optionMilitaires = document.getElementById("option-militaires");
 var optionAutres = document.getElementById("option-les-autres");
 
-const titre = document.querySelector("h1.titre");
+const titre = document.querySelector("itv-entete > h1");
 titre.innerHTML = `Menu du ${new Date().toLocaleDateString("fr-FR", {
   weekday: "long",
 })}`;
