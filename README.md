@@ -1,7 +1,7 @@
 # Fullstack with Node.js
 
-Ce dépôt contient le code source relatif à l'épisode X de notre chaîne [inpulse.tv](https://www.inpulse.tv) dédié à l'environnement d'exécution **Node.js** :
-- [Fullstack with Node.js  - [NodeJS partie.3]  [1ntro]  [#devtech]  [ep.X]] (Episode bientôt disponible)
+Ce dépôt contient le code source relatif à l'épisode 17 de notre chaîne [inpulse.tv](https://www.inpulse.tv) dédié à l'environnement d'exécution **Node.js** :
+- [Fullstack with Node.js  - [NodeJS partie.3]  [1ntro]  [#devtech]  [ep.17]](https://www.youtube.com/watch?v=BJNoyVIdsdw)
 
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo.
 
