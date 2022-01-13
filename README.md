@@ -14,7 +14,7 @@ Pour comprendre le contenu de chaque projet il vous suffit de suivre les instruc
 ## Installation
 Pour télécharger et installer le code source de l'épisode il suffit d'exécuter la commande suivante dans un terminal Bash ou Powershell depuis le dossier de destination :
 ```bash
-git clone https://github.com/inpulse-tv/epX-Fullstack-with-NodeJS.git
+git clone https://github.com/inpulse-tv/ep17-Fullstack-with-NodeJS.git
 ```
 Vous devez ensuite installer les dépendances pour chacun des projets en lancant respectivement dans chaque dossier ``backend`` et ``frontend`` la commande Shell suivante :
 ```bash
